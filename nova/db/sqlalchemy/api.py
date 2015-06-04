@@ -44,6 +44,7 @@ from sqlalchemy.sql.expression import asc
 from sqlalchemy.sql.expression import desc
 from sqlalchemy.sql.expression import select
 from sqlalchemy.sql import func
+from sqlalchemy.sql import null
 from sqlalchemy import String
 
 from nova import block_device
